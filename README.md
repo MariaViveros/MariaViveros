@@ -1,4 +1,20 @@
-### Hi there 👋
+### 🙋🏻‍♀️ Hi there, my name is Maria Jose Viveros
+
+Jr software developer. Always looking to learn something new.
+
+### Skills:
+- HTML
+- CSS
+- JavaScript
+- Java
+- JavaFx
+- SQL
+- Linux
+- J2EE
+- PHP
+
+### Find me:
+- [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-josé-viveros-72198b208/)
 
 <!--
 **MariaViveros/MariaViveros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
