@@ -14,7 +14,7 @@ Jr software developer. Always looking to learn something new.
 - PHP
 
 ### Find me:
-- [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-josé-viveros-72198b208/)
+- [LinkedIn](https://www.linkedin.com/in/mariaviveros/)
 
 <!--
 **MariaViveros/MariaViveros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
