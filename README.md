@@ -12,6 +12,7 @@ Jr software developer. Always looking to learn something new.
 - Linux
 - J2EE
 - PHP
+- JQuery
 
 ### Find me:
 - [LinkedIn](https://www.linkedin.com/in/mariaviveros/)
